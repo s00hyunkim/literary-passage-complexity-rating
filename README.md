@@ -1,6 +1,6 @@
 # MSCI 546 (W2023): ML Models for Quora Insincere Questions
 
-> **Author: Team 2**
+> **Author: Team 2**  
 > Ashba Adil, Soohyun Kim, Janice Mak, Sharon Wu
 
 ## Introduction
