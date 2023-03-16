@@ -15,6 +15,8 @@ To gain a better understanding of our project, please refer to the following doc
 * [Project Proposal](https://docs.google.com/document/d/13cpXKZvZLVEbxLRvQ2M6xRziCUPR0a3-YB-31aGaTR8/edit?usp=sharing)
 * [Presentation Slide Deck](https://docs.google.com/presentation/d/1OfoQqIQrCjAHgOVKa_SjFPxrHhJUXerAx2IpKoCI0Zo/edit?usp=sharing)
 
+For the exploratory data analysis, we referenced the code written by [Ane and Rahul](https://www.kaggle.com/code/anebzt/quora-eda) in Kaggle.
+
 ## Data
 
 We have chosen the ["Quora Insincere Questions Classification"](https://www.kaggle.com/competitions/quora-insincere-questions-classification) competition dataset from Kaggle.  
@@ -28,8 +30,8 @@ This dataset contains **1,306,122 rows** of data with no null or duplicate value
 
 For this **binary classification task**, the following Machine Learning models have been created:
 * Logistic Regression _(Referenced code written by [Lonnie Qin](https://www.kaggle.com/code/lonnieqin/quora-text-classification-with-sklearn/notebook))_
-* Naive Bayes _(Referenced code written by [someone](link))_
-* Decision Tree _(Referenced code written by [someone](link))_
+* Naive Bayes
+* Decision Tree
 * Random Forest _(Referenced code written by [Viraj Bagal](https://www.kaggle.com/code/virajbagal/eda-tsne-traditional-vs-neural-models-nlp))_
 * Neural Network _(Referenced code written by [someone](link))_
 
