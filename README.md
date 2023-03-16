@@ -27,11 +27,11 @@ This dataset contains **1,306,122 rows** of data with no null or duplicate value
 ## Model
 
 For this **binary classification task**, the following Machine Learning models have been created:
-* Logistic Regression
-* Naive Bayes
-* Decision Tree
-* Random Forest
-* Neural Network (Sigmoid)
+* Logistic Regression _(Referenced code written by [Lonnie Qin](https://www.kaggle.com/code/lonnieqin/quora-text-classification-with-sklearn/notebook))_
+* Naive Bayes _(Referenced code written by [someone](link))_
+* Decision Tree _(Referenced code written by [someone](link))_
+* Random Forest _(Referenced code written by [Viraj Bagal](https://www.kaggle.com/code/virajbagal/eda-tsne-traditional-vs-neural-models-nlp))_
+* Neural Network _(Referenced code written by [someone](link))_
 
 To take a look at the code, please refer to 5 different folders created in this repository.
 
