@@ -33,7 +33,7 @@ For this **binary classification task**, the following Machine Learning models h
 * Naive Bayes
 * Decision Tree
 * Random Forest _(Referenced code written by [Viraj Bagal](https://www.kaggle.com/code/virajbagal/eda-tsne-traditional-vs-neural-models-nlp))_
-* Neural Network _(Referenced code written by [someone](link))_
+* Neural Network _(Referenced code written by our TA, Eddie Park)_
 
 To take a look at the code, please refer to 5 different folders created in this repository.
 
