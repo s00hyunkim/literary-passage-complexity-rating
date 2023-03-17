@@ -15,8 +15,6 @@ To gain a better understanding of our project, please refer to the following doc
 * [Project Proposal](https://docs.google.com/document/d/13cpXKZvZLVEbxLRvQ2M6xRziCUPR0a3-YB-31aGaTR8/edit?usp=sharing)
 * [Presentation Slide Deck](https://docs.google.com/presentation/d/1OfoQqIQrCjAHgOVKa_SjFPxrHhJUXerAx2IpKoCI0Zo/edit?usp=sharing)
 
-For the exploratory data analysis, we referenced the code written by [Ane and Rahul](https://www.kaggle.com/code/anebzt/quora-eda) in Kaggle.
-
 ## Data
 
 We have chosen the ["Quora Insincere Questions Classification"](https://www.kaggle.com/competitions/quora-insincere-questions-classification) competition dataset from Kaggle.  
@@ -25,6 +23,8 @@ This dataset contains **1,306,122 rows** of data with no null or duplicate value
 * `qid`: Unique question identifier
 * `question_text`: Question text from a Quora user
 * `target`: Binary label for a question with 0 being `sincere` and 1 being `insincere`
+
+For the exploratory data analysis, we referenced the code written by [Ane and Rahul](https://www.kaggle.com/code/anebzt/quora-eda) in Kaggle.
 
 ## Model
 
